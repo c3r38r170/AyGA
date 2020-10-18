@@ -1,6 +1,6 @@
 {
   "name": "ayga",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Funciones para resolver ejercicios de Álgebra y Geometría Analítica. (materia de primer año de la Universidad Tecnológica Nacional, Argentina)",
   "main": "AyGA.js",
   "scripts": {
